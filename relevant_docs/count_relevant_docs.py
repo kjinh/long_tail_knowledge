@@ -5,6 +5,7 @@ from tqdm.auto import tqdm
 import argparse
 import os
 import utils
+import numpy as np
 
 from country_entities import countries
 
